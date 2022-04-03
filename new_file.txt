@@ -1,3 +1,4 @@
 create and add a new file in master
 create and add a new file in branch1
 This text is on third line in branch2
+On branch2 and add this line and then checkout on master and apply git rebase
