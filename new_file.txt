@@ -1,2 +1,3 @@
 create and add a new file in master
 create and add a new file in branch1
+This text is on third line in branch2
